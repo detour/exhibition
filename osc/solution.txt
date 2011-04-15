@@ -1,0 +1,14 @@
+# Interaction
+http://post.monome.org/comments.php?DiscussionID=2314
+http://charlie-roberts.com/Control/interfaces/template.js
+
+## OSCemote
+http://code.google.com/p/oscemote/w/list
+http://pixelverse.org/iphone/oscemote/
+
+## TouchOSC
+http://hexler.net/software/touchosc
+
+
+# Map
+http://bl.ocks.org/600144
