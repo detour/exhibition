@@ -11,7 +11,7 @@ class ExhibitionServer
 
   def initialize
     @browser = Watir::Browser.new(:chrome)
-    @browser.goto("http://dev.detourlab.com:3000/exhibition")
+    @browser.goto("http://api.detourlab.com/exhibition")
     
     @server = OSC::Server.new( PORT )
     @client = OSC::Client.new( 'localhost', PORT )
